@@ -1,6 +1,8 @@
 ### 🔭 I’m currently working on flutter, ts, ue4
 creator of [bridged.xyz](https://bridged.xyz)
 
+
+![](https://github-readme-stats.vercel.app/api?username=softmarshmallow)
 <!--
 **softmarshmallow/softmarshmallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
