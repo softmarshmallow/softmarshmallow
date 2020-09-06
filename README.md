@@ -1,5 +1,10 @@
-### 🔭 I’m currently working on flutter, ts, ue4
-creator of [bridged.xyz](https://bridged.xyz)
+### 🔭 what do i do?
+
+[bridged.xyz](https://bridged.xyz) : *"making an automation system for the design /development process"*
+quorra : *"making the products on planet earth more aesthetic. the modern industrial art machine"*
+silvia : *"studing the human brain"*
+inked : *"algorithmic trading based on NL evnts"*
+snacks : *"creating a social based map platform and offline hardware infrastructure opened for anyone with the goal"*
 
 
 ![](https://github-readme-stats.vercel.app/api?username=softmarshmallow)
