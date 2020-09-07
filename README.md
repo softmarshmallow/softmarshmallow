@@ -1,6 +1,6 @@
 ### 🔭 what do i do?
 
-- [bridged.xyz](https://bridged.xyz) : *"making an automation system for the design /development process"*
+- [bridged.xyz](https://bridged.xyz) : *"making an automation system of the design /development process"*
 - quorra : *"making the products on planet earth more aesthetic. the modern industrial art machine"*
 - silvia : *"understanding how the human brain works. simulating visually, and developing an interface for ui control"*
 - inked : *"algorithmic trading based on NL evnts"*
