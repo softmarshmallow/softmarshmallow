@@ -4,8 +4,9 @@
 - [quorra](https://github.com/softmarshmallow/quorra) : *"making the products on planet earth more aesthetic. the modern industrial art machine"*
 - [silvia](https://github.com/softmarshmallow/silvia) : *"understanding how the human brain works. simulating visually, and developing an interface for ui control"*
 - [inked](https://github.com/softmarshmallow/inked-engine) : *"algorithmic trading based on NL evnts"*
+<!--
 - [snacks](https://github.com/snackso) : *"creating a social based map platform and offline hardware infrastructure opened for anyone with the goal"*
-
+--!>
 
 ![](https://github-readme-stats.vercel.app/api?username=softmarshmallow)
 <!--
