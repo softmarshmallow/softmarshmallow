@@ -1,6 +1,6 @@
 ### 🔭 what do i do?
 
-- [Grida](https://github.com/grida) & [Grida.co](https://grida.co) : *"making an automation system of the design /development process"*
+- [Grida](https://github.com/gridaco) & [Grida.co](https://grida.co) : *"making an automation system of the design /development process"*
 - [reflect-ui](https://github.com/reflect-ui) : *"The final UI Framework / Design system you'll ever need"*
 - [quorra](https://github.com/softmarshmallow/quorra) : *"making the products on planet earth more aesthetic. the modern industrial art machine"*
 - [silvia](https://github.com/softmarshmallow/silvia) : *"understanding how the human brain works. simulating visually, and developing an interface for ui control"*
