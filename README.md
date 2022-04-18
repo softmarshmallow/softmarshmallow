@@ -2,9 +2,10 @@
 
 - [Grida](https://github.com/gridaco) & [Grida.co](https://grida.co) : *"making an automation system of the design /development process"*
 - [reflect-ui](https://github.com/reflect-ui) : *"The final UI Framework / Design system you'll ever need"*
-- [quorra](https://github.com/softmarshmallow/quorra) : *"making the products on planet earth more aesthetic. the modern industrial art machine"*
+- [design-to-code](https://github.com/gridaco/designto-code) : *"Design to code."*
+- [nothing engine](https://github.com/gridaco/nothing) : *"Nothing but drawing. An Open source graphics engine for ui design"*
 - [silvia](https://github.com/softmarshmallow/silvia) : *"understanding how the human brain works. simulating visually, and developing an interface for ui control"*
-- [inked](https://github.com/softmarshmallow/inked-engine) : *"algorithmic trading based on NL evnts"*
+
 
 ![](https://github-readme-stats.vercel.app/api?username=softmarshmallow)
 
